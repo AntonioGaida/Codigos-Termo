@@ -1,0 +1,1 @@
+Olá, aqui você pode encontrar todos os arquivos em VHDL que proporcionaram a realização do Trabalho Prático 2 de Sistemas de Digitas, o qual se baseou em programar e montar o sistema para o jogo Termo/Worlde em uma placa FPGA Spartan-3A/3AN.
